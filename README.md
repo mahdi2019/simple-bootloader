@@ -70,16 +70,19 @@ mkisofs -o myfirst.iso -b myfirst.flp cdiso/
 ```
 
 This generates a CD-ROM ISO image called myfirst.iso with bootable floppy disk emulation, using the virtual floppy disk image from before. Now you can burn that ISO to a CD-R and boot your PC from it! (Note that you need to burn it as a direct ISO image and not just copy it onto a disc.)
+
 ------
 
 ## Authors
 
 **mahdi heidari** - [mahdi2019](https://github.com/mahdi2019)
+
 ---
 
 ## License
 
 This project is licensed under the MIT License [LICENSE](LICENSE).
+
 ---
 
 ## Task-Lists
